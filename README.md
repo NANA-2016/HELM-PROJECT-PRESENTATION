@@ -16,7 +16,7 @@ For each microservice, create a docker file
 
 <img width="1443" height="497" alt="image" src="https://github.com/user-attachments/assets/7b79ce21-8394-44d7-9229-dcd214e269ab" />
 
-### PUSH TO DOCKER HUB
+### PUSH TO DOCKER HUB.
 
 Log in to Docker hub and and create a repository for each microservice
 
