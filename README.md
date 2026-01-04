@@ -8,7 +8,7 @@ Product-service,cart-servicde and order-service .
 
 <img width="1543" height="85" alt="image" src="https://github.com/user-attachments/assets/39e241e2-4085-469a-8148-d9355bd88dac" />
 
-After this initializa a git repository 
+After this initializa a git repository .
 
 ### DOCKERIZE THE MICROSERVICES
 
