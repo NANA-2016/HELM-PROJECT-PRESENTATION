@@ -2,7 +2,7 @@
 
 ### PROJECT SETUP
 
-Set up ecommerce directory  and in the directory set up sub directories 
+Set up ecommerce directory  and in the directory set up sub directories .
 
 Product-service,cart-servicde and order-service .
 
